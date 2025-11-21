@@ -3,9 +3,9 @@ It downloads a YouTube video and parses its srt file.
 It has a C# code for downloading YouTube videos. "dotnet build" might be necessary.
 
 To run,
-npm install
-npm run dev
-Open http://localhost:3001
+1. npm install ("dotnet build" also might be necessary.)
+2. npm run dev
+3. Open http://localhost:3001
 
 Once it is running,
 1. Go to the Youtube Download Tab.
